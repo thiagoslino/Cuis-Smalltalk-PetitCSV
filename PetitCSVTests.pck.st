@@ -1,7 +1,8 @@
-'From Cuis 6.0 [latest update: #5859] on 14 June 2023 at 7:16:14 pm'!
+'From Cuis 6.0 [latest update: #5847] on 14 June 2023 at 7:33:22 pm'!
 'Description '!
-!provides: 'PetitCSVTests' 1 1!
+!provides: 'PetitCSVTests' 1 2!
 !requires: 'PetitTests' 1 2 nil!
+!requires: 'PetitCSV' 1 2 nil!
 SystemOrganization addCategory: 'PetitCSVTests'!
 
 

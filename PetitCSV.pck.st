@@ -1,7 +1,7 @@
 'From Cuis 6.0 [latest update: #5859] on 14 June 2023 at 7:16:18 pm'!
 'Description Cuis port of http://source.lukas-renggli.ch/petit/ PetitCSV'!
-!provides: 'PetitCSV' 1 2!
-!requires: 'PetitParser' 1 4 nil!
+!provides: 'PetitCSV' '1.2.0'!
+!requires: 'PetitParser' '1.4.0' '1.*.*'!
 SystemOrganization addCategory: 'PetitCSV'!
 
 
